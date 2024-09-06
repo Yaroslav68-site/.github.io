@@ -1,0 +1,175 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+.main{
+    background: url("elabuga.jpg")no-repeat center center / cover;
+    height: 100vh;
+    padding-top:9px ;
+    text-align: center;
+}
+.logo2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 145px;
+    text-align: center;
+}
+.logo3{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    color: #000000;
+    font-size: 22px;
+    padding-left: 11px;
+    font-family: Moulpali;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.elabuga{
+    color: #000000;
+    font-weight: 900;
+    font-size: 15px;
+    background-color: #32C3CB;
+    width: 262px;
+    text-align: center;
+    margin-bottom: 24px;
+    border-radius: 78px;
+    padding: 8px 17px;
+    text-transform: uppercase;
+    
+}
+.title{
+    color: #FF9500;
+    font-size: 60px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+.text{
+    color: #FF9500;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+.link{
+    color: #ffffff;
+    background-color: #32C3CB;
+    font-size: 16px;
+    font-weight: 900;
+    border-radius: 119px;
+    padding: 18px 52px;
+    text-decoration: none;
+}
+.arrow{
+    padding-top: 141px;
+}
+.main2{
+    background-color: #fff;
+    height: 100vh;
+    padding-top:90px ;
+    padding-left: 91px;
+    align-items: center;
+}
+.textgps{
+    
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Montagu Slab;
+    padding-bottom: 138px;
+}
+.№1{
+    background-image: url('log1.png');
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    margin-right: 300px;
+    padding-top: 0px;
+    padding-left: 76px;
+    background-color:#FFF6F1 ;
+    width: 1332px;
+    height: 711px;
+}
+.gps{
+    padding-top: 49px;
+}
+.text_history{
+    text-transform: uppercase;
+    font-size: 30px;
+    padding-top:34px ;
+}
+.log1{
+    margin-right: 2px;
+}
+.next_routes { 
+    width: 297px; 
+    border: 1px solid #FF7E36; 
+    border-radius: 94px; 
+    padding: 17px 49px; 
+    margin-top: 88.84px; 
+    margin-left: 480px;
+
+     
+} 
+.look_routes { 
+    font-weight: 800; 
+    color: #FF7E36; 
+    font-size: 26px;
+    text-decoration: none;
+    padding: 0px;
+} 
+.opportunities_gid{ 
+    font-size: 30; 
+    weight: 800 
+} 
+.photo{ 
+    padding-top: 30px;
+    width: 787px; 
+    height: 626px; 
+    text-align: center; 
+    float: right; 
+    margin-bottom: 250px; 
+} 
+
+.guide{ 
+  text-align: center; 
+  margin-top: 157px; 
+  margin-bottom: 93px; 
+  font-size: 30px; 
+  text-transform: uppercase; 
+  font-weight: 900; 
+  padding: 200px;
+} 
+
+.down{ 
+  margin-left: 479px; 
+  margin-top: 750px; 
+  color: #5C7677; 
+} 
+
+.down1{ 
+  margin-left: 230px; 
+  margin-top: 750px; 
+  color: #5C7677; 
+} 
+
+.final{ 
+  text-align: left; 
+  float: left; 
+  margin-left: 230px; 
+  font-size: 16px; 
+  margin-top: 125px; 
+} 
+
+.project{ 
+  color: #FF7E36; 
+  background-color: #FF7E36; 
+  padding: 1px 20px; 
+  border-radius: 90px; 
+}
